@@ -226,7 +226,7 @@ I welcome professional connections, cybersecurity discussions, collaborations, s
 </p>
 
 <p align="center">
-  <strong>Personal Website:</strong> YOUR_WEBSITE_URL
+  <strong>Personal Website:</coming_soon</strong>
 </p>
 
 <!-- ============================================ -->
