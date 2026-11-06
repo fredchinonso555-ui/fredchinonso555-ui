@@ -147,7 +147,7 @@ The following are project categories for which I intend to publish documented wo
 
 | Project | Description | Repository |
 |---|---|---|
-| 🔐 Cybersecurity Labs | Practical cybersecurity exercises and laboratory documentation. | [Add Repository Link](#featured-projects) |
+| 🔐 Cybersecurity Labs | Practical cybersecurity exercises and laboratory documentation. | [https://github.com/fredchinonso555-ui/Suricata-IDS-Lab](#featured-projects) |
 | 🐍 Python Security Projects | Python scripts and automation for cybersecurity learning. | [Add Repository Link](#featured-projects) |
 | 🌐 Web Security Projects | Web application security experiments and learning projects. | [Add Repository Link](#featured-projects) |
 | 🔎 Vulnerability Research | Vulnerability analysis and responsible security research. | [Add Repository Link](#featured-projects) |
